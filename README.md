@@ -11,15 +11,15 @@
 
 **Databases:**
 
-Postgres, MySQL, Redis, Mongo
+`Postgres, MySQL, Redis, Mongo`
 
 **Backend:**
 
-Django
+`Django`
 
 **Deployment:**
 
-Docker, Docker-compose, Github Actions, Linux, Nginx
+`Docker, Docker-compose, Github Actions, Linux, Nginx`
 
 **Other tools:**
 
@@ -27,7 +27,7 @@ Docker, Docker-compose, Github Actions, Linux, Nginx
 
 ## В настоящее время Изучаю
 
-- Создание серверных приложений с помощью Django, мощного веб-фреймворка Python.
+`- Создание серверных приложений с помощью Django, мощного веб-фреймворка Python.
 - Погружение в PostgreSQL, MongoDB для эффективного и масштабируемого управления базами данных.
-- Изучаю тонкости библиотек для анализа данных.
+- Изучаю тонкости библиотек для анализа данных.`
 
