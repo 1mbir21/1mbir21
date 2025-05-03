@@ -1,3 +1,5 @@
+![giphy](https://github.com/user-attachments/assets/54dddb89-fba4-417d-99ca-5c78c358a770)
+
 ## Меня зовут Сенгин 👨🏾‍💻
 
 **Занимаюсь программиванием 3 года, прохожу обучение в Yandex Practicum.**
